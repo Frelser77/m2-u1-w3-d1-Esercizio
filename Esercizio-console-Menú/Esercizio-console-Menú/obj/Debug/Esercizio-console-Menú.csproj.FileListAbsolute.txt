@@ -1,0 +1,7 @@
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\bin\Debug\Esercizio-console-Menú.exe.config
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\bin\Debug\Esercizio-console-Menú.exe
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\bin\Debug\Esercizio-console-Menú.pdb
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\obj\Debug\Esercizio-console-Menú.csproj.AssemblyReference.cache
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\obj\Debug\Esercizio-console-Menú.csproj.CoreCompileInputs.cache
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\obj\Debug\Esercizio-console-Menú.exe
+C:\Users\damic\OneDrive\Desktop\back-end\u2-w1-d1\Esercizio-console-Menú\Esercizio-console-Menú\obj\Debug\Esercizio-console-Menú.pdb
